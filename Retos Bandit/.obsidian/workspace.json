@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bandit/Bandit Level 9 → Level 10.md",
+                "file": "Bandit/Bandit Level 16 → Level 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bandit/Bandit Level 9 → Level 10.md",
+                "file": "Bandit/Bandit Level 16 → Level 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bandit/Bandit Level 9 → Level 10.md",
+                "file": "Bandit/Bandit Level 16 → Level 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bandit/Bandit Level 9 → Level 10.md"
+                "file": "Bandit/Bandit Level 16 → Level 17.md"
               }
             }
           }
@@ -146,22 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a40c5f8df846fcf7",
+  "active": "6e9e13fcd3d8dd9b",
   "lastOpenFiles": [
-    "Bandit/Bandit Level 8 → Level 9.md",
-    "Bandit/Bandit Level 7 → Level 8.md",
-    "Bandit/Bandit Level  6→ Level 7.md",
-    "Bandit/Bandit 0.md",
-    "Bandit/Bandit Level 5 → Level 6.md",
-    "Bandit/Bandit Level 4 → Level 5.md",
-    "Bandit/Bandit Level 3 → Level 4.md",
-    "Bandit/Bandit Level 2 → Level 3.md",
-    "Bandit/Bandit Level 1 → Level 2.md",
-    "Bandit/Bandit Level 0 → Level 1.md",
-    "Bandit/Bandit Level 9 → Level 10.md",
+    "Bandit/Bandit Level 15 → Level 16.md",
+    "Bandit/Bandit Level 14 → Level 15.md",
+    "Bandit/Bandit Level 13 → Level 14.md",
+    "Bandit/Bandit Level 12 → Level 13.md",
+    "Bandit/Bandit Level 11 → Level 12.md",
+    "Bandit/Bandit Level 10 → Level 11.md",
+    "Bandit/Bandit Level 16 → Level 17.md",
+    "Bandit/Bandit Level 33 → Level 34.md",
+    "Bandit/Bandit Level 32→ Level 33.md",
+    "Bandit/Bandit Level 31 → Level 32.md",
+    "Bandit/Bandit Level 30 → Level 31.md",
+    "Bandit/Bandit Level 29 → Level 30.md",
+    "Bandit/Bandit Level 28 → Level 29.md",
+    "Bandit/Bandit Level 27 → Level 28.md",
+    "Bandit/Bandit Level 26 → Level 27.md",
+    "Bandit/Bandit Level 25 → Level 26.md",
+    "Bandit/Bandit Level 24 → Level 25.md",
+    "Bandit/Bandit Level 23 → Level 24.md",
+    "Bandit/Bandit Level 22 → Level 23.md",
+    "Bandit/Bandit Level 21 → Level 22.md",
+    "Bandit/Bandit Level 20 → Level 21.md",
+    "Bandit/Bandit Level 19 → Level 20.md",
+    "Bandit/Bandit Level 18 → Level 19.md",
+    "Bandit/Bandit Level 17 → Level 18.md",
     "Bandit/Plantilla.md",
-    "Readme.md",
-    "Bandit",
-    "create a link.md"
+    "Bandit/Bandit Level 9 → Level 10.md",
+    "Bandit"
   ]
 }
