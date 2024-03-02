@@ -11,8 +11,12 @@
             "id": "bbffa775f625fafd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Generalls Skills/12-chrono.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/Generalls Skills/12-chrono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/Generalls Skills/12-chrono.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicoCTF/Generalls Skills/12-chrono.md"
+              }
             }
           }
         ]
@@ -140,9 +148,23 @@
   },
   "active": "bbffa775f625fafd",
   "lastOpenFiles": [
+    "PicoCTF/Generalls Skills/09-Big Zip.md",
+    "PicoCTF/Generalls Skills/12-chrono.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/Generalls Skills/11-Useless.md",
+    "PicoCTF/Generalls Skills/10-repetitions.md",
+    "PicoCTF/Generalls Skills/08-HashingJobApp.md",
+    "PicoCTF/Generalls Skills/07-First Find.md",
+    "PicoCTF/Generalls Skills/06-Python Wrangling.md",
+    "PicoCTF/Generalls Skills/05-mus1c.md",
+    "PicoCTF/Generalls Skills/04-flag_shop.md",
+    "PicoCTF/Generalls Skills/03-ASCII Numbers.md",
+    "PicoCTF/Generalls Skills/02-Serpentine.md",
+    "Readme 1.md",
+    "PicoCTF/Generalls Skills/01-Glitch Cat.md",
+    "PicoCTF/Generalls Skills",
     "PicoCTF/Primer parcial/16-Fixme1.py.md",
     "PicoCTF/Primer parcial/23-PW Crack 3.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/Primer parcial/22-PW Crack 2.md",
     "PicoCTF/Primer parcial/21-PW Crack 1.md",
     "PicoCTF/Retos web/06-Client-side-again.md",
@@ -154,19 +176,6 @@
     "PicoCTF/Primer parcial/20-Runme.py.md",
     "PicoCTF/Retos web",
     "PicoCTF/Primer parcial/19-Fixme2.py.md",
-    "PicoCTF/Primer parcial/18-Codebook.md",
-    "PicoCTF/Primer parcial/17-Convertme.py.md",
-    "PicoCTF/Primer parcial/15-Based.md",
-    "PicoCTF/Primer parcial/14-Plumbing.md",
-    "PicoCTF/Primer parcial/09-Nice netcat....md",
-    "PicoCTF/Primer parcial/08-whats a net cat.md",
-    "PicoCTF/Primer parcial/05-Bases.md",
-    "PicoCTF/Primer parcial/04-2Warm.md",
-    "PicoCTF/Primer parcial/03-First Grep.md",
-    "PicoCTF/Primer parcial/13-Strings it.md",
-    "PicoCTF/Primer parcial/12-Magikarp Ground Mission.md",
-    "PicoCTF/Primer parcial/11-Tab, Tab, Attack.md",
-    "PicoCTF/Primer parcial/10-Static ain't always noise.md",
     "PicoCTF/Primer parcial",
     "PicoCTF",
     "Bandit"
