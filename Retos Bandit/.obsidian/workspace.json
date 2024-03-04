@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md",
+                "file": "PicoCTF/Retos web/10-JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md",
+                "file": "PicoCTF/Retos web/10-JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md",
+                "file": "PicoCTF/Retos web/10-JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md"
+                "file": "PicoCTF/Retos web/10-JaWT Scratchpad.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "bbffa775f625fafd",
   "lastOpenFiles": [
-    "PicoCTF/Generalls Skills/09-Big Zip.md",
-    "PicoCTF/Generalls Skills/12-chrono.md",
+    "PicoCTF/Retos web/09-Irish-Name-Repo 3.md",
+    "PicoCTF/Retos web/10-JaWT Scratchpad.md",
+    "PicoCTF/Retos web/08-Irish-Name-Repo 2.md",
+    "PicoCTF/Retos web/07-Irish-Name-Repo 1.md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/Generalls Skills/12-chrono.md",
+    "PicoCTF/Generalls Skills/09-Big Zip.md",
     "PicoCTF/Generalls Skills/11-Useless.md",
     "PicoCTF/Generalls Skills/10-repetitions.md",
     "PicoCTF/Generalls Skills/08-HashingJobApp.md",
@@ -171,11 +175,7 @@
     "PicoCTF/Retos web/05-PicoBrowser.md",
     "PicoCTF/Retos web/04-dont-use-client-side.md",
     "PicoCTF/Retos web/03-logon.md",
-    "PicoCTF/Retos web/02-where are the robots.md",
-    "PicoCTF/Retos web/01-Insp3ct0r.md",
-    "PicoCTF/Primer parcial/20-Runme.py.md",
     "PicoCTF/Retos web",
-    "PicoCTF/Primer parcial/19-Fixme2.py.md",
     "PicoCTF/Primer parcial",
     "PicoCTF",
     "Bandit"
