@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7631c26c6bba4d11",
+        "id": "ada5bd7282ff5789",
         "type": "tabs",
         "children": [
           {
-            "id": "5ddc7a78faa87fe3",
+            "id": "2e52a9d05bf45306",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ddc7a78faa87fe3",
+  "active": "2e52a9d05bf45306",
   "lastOpenFiles": [
+    "PicoCTF/Segundo parcial/Retos web/08-Secrets.md",
+    "PicoCTF/Segundo parcial/Retos web/09-SQL Direct.md",
+    "PicoCTF/Segundo parcial/Retos web/07-Roboto Sans.md",
+    "PicoCTF/Segundo parcial/Retos web/06-Power Cookie.md",
+    "PicoCTF/Segundo parcial/Retos web/05-Forbidden Paths.md",
+    "PicoCTF/Segundo parcial/Retos web/04-Search source.md",
+    "PicoCTF/Segundo parcial/Retos web/03-Local Authority.md",
+    "PicoCTF/Segundo parcial/Retos forensic/07-St3g0.md",
+    "PicoCTF/Segundo parcial/Retos forensic/06-Packets Primer.md",
+    "PicoCTF/Segundo parcial/Retos forensic/05-Wireshark doo dooo do doo....md",
+    "PicoCTF/Segundo parcial/Retos forensic/04-Enhance!.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/Segundo parcial/Retos forensic/03-Lookey here.md",
+    "PicoCTF/Segundo parcial/Retos forensic/02-Redaction gone wrong.md",
+    "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md",
     "PicoCTF/Retos Forensic/14-tunn3l_v1s10n.md",
     "PicoCTF/Retos Forensic/13-Matryoshka doll.md",
     "PicoCTF/Retos Forensic/12-Webnet1.md",
@@ -158,25 +165,10 @@
     "PicoCTF/Retos Forensic/08-c0rrupt.md",
     "PicoCTF/Retos Forensic/07-WhitePages.md",
     "PicoCTF/Retos Forensic/06-m00nwalk.md",
-    "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/Segundo parcial/Retos web/02-Inspect HTML.md",
     "PicoCTF/Segundo parcial/Retos forensic",
     "PicoCTF/Segundo parcial/Retos web",
-    "PicoCTF/Segundo parcial/Retos web/01-Includes.md",
-    "PicoCTF/Retos web/02-where are the robots.md",
     "PicoCTF/Segundo parcial",
-    "PicoCTF/Tarea 2/packer.md",
-    "PicoCTF/Tarea 2/Secret of the Polyglot.md",
-    "PicoCTF/Tarea 2/Time Machine.md",
-    "PicoCTF/Tarea 2/format string 0.md",
-    "Readme 1.md",
-    "PicoCTF/Retos Forensic/04-extensions.md",
-    "PicoCTF/Retos Forensic/05-What Lies Within.md",
-    "PicoCTF/Retos Forensic/02-So Meta.md",
-    "PicoCTF/Retos Forensic/01-Glory of the Garden.md",
-    "PicoCTF/Tarea 2/interencdec.md",
-    "PicoCTF/Retos web/16-login.md",
     "PicoCTF/Tarea 2",
     "PicoCTF/Retos Forensic",
     "PicoCTF/Generalls Skills",
