@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md",
+                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md",
+                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md",
+                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Generalls Skills/12-chrono.md"
+                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "2e52a9d05bf45306",
   "lastOpenFiles": [
-    "PicoCTF/Generalls Skills/13-Permissions.md",
+    "PicoCTF/Retos Crypto/06-Tapping.md",
+    "PicoCTF/Retos Crypto/05-la cifra de.md",
+    "PicoCTF/Retos Crypto/02-Easy 1.md",
+    "PicoCTF/Retos Crypto/04-Cesar.md",
+    "PicoCTF/Retos Crypto/03-13.md",
+    "PicoCTF/Retos Crypto/01-The Numbers.md",
+    "PicoCTF/Retos Crypto/07-waves over lambda.md",
+    "PicoCTF/Retos Crypto/Untitled",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/Generalls Skills/12-chrono.md",
+    "PicoCTF/Retos Crypto",
+    "PicoCTF/Generalls Skills/13-Permissions.md",
     "PicoCTF/Tarea 2/interencdec.md",
     "PicoCTF/Segundo parcial/Retos web/08-Secrets.md",
     "PicoCTF/Segundo parcial/Retos web/09-SQL Direct.md",
@@ -166,14 +176,6 @@
     "PicoCTF/Segundo parcial/Retos forensic/02-Redaction gone wrong.md",
     "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md",
     "PicoCTF/Retos Forensic/14-tunn3l_v1s10n.md",
-    "PicoCTF/Retos Forensic/13-Matryoshka doll.md",
-    "PicoCTF/Retos Forensic/12-Webnet1.md",
-    "PicoCTF/Retos Forensic/11-WebNet0.md",
-    "PicoCTF/Segundo parcial/Retos forensic/01-information.md",
-    "PicoCTF/Retos Forensic/10-shark on wire 2.md",
-    "PicoCTF/Retos Forensic/09-like1000.md",
-    "PicoCTF/Retos Forensic/08-c0rrupt.md",
-    "PicoCTF/Retos Forensic/07-WhitePages.md",
     "PicoCTF/Segundo parcial/Retos forensic",
     "PicoCTF/Segundo parcial/Retos web",
     "PicoCTF/Segundo parcial",
@@ -181,8 +183,6 @@
     "PicoCTF/Retos Forensic",
     "PicoCTF/Generalls Skills",
     "PicoCTF/Retos web",
-    "PicoCTF/Primer parcial",
-    "PicoCTF",
-    "Bandit"
+    "PicoCTF/Primer parcial"
   ]
 }
