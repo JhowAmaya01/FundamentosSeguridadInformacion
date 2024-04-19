@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ada5bd7282ff5789",
+        "id": "01c28fccb1d7a068",
         "type": "tabs",
         "children": [
           {
-            "id": "2e52a9d05bf45306",
+            "id": "10c6db50bb3f1859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md",
+                "file": "PicoCTF/Generalls Skills/15-Blame Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48c8b3b8d4cb4986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md",
+                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md",
+                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Crypto/07-waves over lambda.md"
+                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md"
               }
             }
           }
@@ -146,36 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e52a9d05bf45306",
+  "active": "48c8b3b8d4cb4986",
   "lastOpenFiles": [
+    "PicoCTF/Retos Crypto/14-HideToSee.md",
+    "PicoCTF/Retos Crypto/13-basic-mod1.md",
+    "PicoCTF/Retos Crypto/12-Pixelated.md",
+    "PicoCTF/Retos Crypto/11-Mind your Ps and Qs.md",
+    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
+    "PicoCTF/Retos Crypto/09-miniRSA.md",
+    "PicoCTF/Retos Crypto/08-rsa-pop-quiz.md",
+    "PicoCTF/Retos Crypto/15-ReadMyCert.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/Retos Crypto/Untitled",
+    "PicoCTF/Tarea 2/PicoCTF_2024-20240327T041251Z-001/PicoCTF_2024/PicoCTF_2024_aers/aers-BlameGame.md",
+    "PicoCTF/Tarea 2/Time Machine.md",
+    "PicoCTF/Generalls Skills/15-Blame Game.md",
+    "PicoCTF/Tarea 2/PicoCTF_2024-20240327T041251Z-001/PicoCTF_2024/PicoCTF_2024_GreyGods/GreyGods-Commitment Issues.md",
+    "PicoCTF/Generalls Skills/14-Super SSH.md",
+    "PicoCTF/Retos Crypto/07-waves over lambda.md",
     "PicoCTF/Retos Crypto/06-Tapping.md",
     "PicoCTF/Retos Crypto/05-la cifra de.md",
     "PicoCTF/Retos Crypto/02-Easy 1.md",
     "PicoCTF/Retos Crypto/04-Cesar.md",
     "PicoCTF/Retos Crypto/03-13.md",
     "PicoCTF/Retos Crypto/01-The Numbers.md",
-    "PicoCTF/Retos Crypto/07-waves over lambda.md",
-    "PicoCTF/Retos Crypto/Untitled",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/Generalls Skills/12-chrono.md",
     "PicoCTF/Retos Crypto",
     "PicoCTF/Generalls Skills/13-Permissions.md",
     "PicoCTF/Tarea 2/interencdec.md",
     "PicoCTF/Segundo parcial/Retos web/08-Secrets.md",
     "PicoCTF/Segundo parcial/Retos web/09-SQL Direct.md",
-    "PicoCTF/Segundo parcial/Retos web/07-Roboto Sans.md",
-    "PicoCTF/Segundo parcial/Retos web/06-Power Cookie.md",
-    "PicoCTF/Segundo parcial/Retos web/05-Forbidden Paths.md",
-    "PicoCTF/Segundo parcial/Retos web/04-Search source.md",
-    "PicoCTF/Segundo parcial/Retos web/03-Local Authority.md",
-    "PicoCTF/Segundo parcial/Retos forensic/07-St3g0.md",
-    "PicoCTF/Segundo parcial/Retos forensic/06-Packets Primer.md",
-    "PicoCTF/Segundo parcial/Retos forensic/05-Wireshark doo dooo do doo....md",
-    "PicoCTF/Segundo parcial/Retos forensic/04-Enhance!.md",
-    "PicoCTF/Segundo parcial/Retos forensic/03-Lookey here.md",
-    "PicoCTF/Segundo parcial/Retos forensic/02-Redaction gone wrong.md",
-    "PicoCTF/Retos Forensic/15-MacroHard WeakEdge.md",
-    "PicoCTF/Retos Forensic/14-tunn3l_v1s10n.md",
     "PicoCTF/Segundo parcial/Retos forensic",
     "PicoCTF/Segundo parcial/Retos web",
     "PicoCTF/Segundo parcial",
