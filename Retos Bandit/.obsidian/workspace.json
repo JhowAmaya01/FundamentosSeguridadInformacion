@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md",
+                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md",
+                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md",
+                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Crypto/15-ReadMyCert.md"
+                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md"
               }
             }
           }
@@ -161,15 +161,21 @@
   },
   "active": "48c8b3b8d4cb4986",
   "lastOpenFiles": [
+    "PicoCTF/Retos Crypto/09-miniRSA.md",
+    "PicoCTF/Retos Reversing/01-vault-door-training.md",
+    "PicoCTF/Retos Reversing/05-vault-door-5.md",
+    "PicoCTF/Retos Reversing/02-vault-door-1.md",
+    "PicoCTF/Retos Reversing/04-vault-door-4.md",
+    "PicoCTF/Retos Reversing/03-vault-door-3.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/Retos Crypto/11-Mind your Ps and Qs.md",
+    "PicoCTF/Retos Reversing",
+    "PicoCTF/Retos Crypto/15-ReadMyCert.md",
+    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
     "PicoCTF/Retos Crypto/14-HideToSee.md",
     "PicoCTF/Retos Crypto/13-basic-mod1.md",
     "PicoCTF/Retos Crypto/12-Pixelated.md",
-    "PicoCTF/Retos Crypto/11-Mind your Ps and Qs.md",
-    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
-    "PicoCTF/Retos Crypto/09-miniRSA.md",
     "PicoCTF/Retos Crypto/08-rsa-pop-quiz.md",
-    "PicoCTF/Retos Crypto/15-ReadMyCert.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF/Retos Crypto/Untitled",
     "PicoCTF/Tarea 2/PicoCTF_2024-20240327T041251Z-001/PicoCTF_2024/PicoCTF_2024_aers/aers-BlameGame.md",
     "PicoCTF/Tarea 2/Time Machine.md",
@@ -183,19 +189,13 @@
     "PicoCTF/Retos Crypto/04-Cesar.md",
     "PicoCTF/Retos Crypto/03-13.md",
     "PicoCTF/Retos Crypto/01-The Numbers.md",
-    "PicoCTF/Generalls Skills/12-chrono.md",
     "PicoCTF/Retos Crypto",
-    "PicoCTF/Generalls Skills/13-Permissions.md",
-    "PicoCTF/Tarea 2/interencdec.md",
-    "PicoCTF/Segundo parcial/Retos web/08-Secrets.md",
-    "PicoCTF/Segundo parcial/Retos web/09-SQL Direct.md",
     "PicoCTF/Segundo parcial/Retos forensic",
     "PicoCTF/Segundo parcial/Retos web",
     "PicoCTF/Segundo parcial",
     "PicoCTF/Tarea 2",
     "PicoCTF/Retos Forensic",
     "PicoCTF/Generalls Skills",
-    "PicoCTF/Retos web",
-    "PicoCTF/Primer parcial"
+    "PicoCTF/Retos web"
   ]
 }
