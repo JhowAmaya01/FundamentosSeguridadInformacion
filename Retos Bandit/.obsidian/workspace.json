@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "01c28fccb1d7a068",
+        "id": "6d63fc55f5ef5f42",
         "type": "tabs",
         "children": [
           {
-            "id": "10c6db50bb3f1859",
+            "id": "61dc3c674024f9b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Generalls Skills/15-Blame Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48c8b3b8d4cb4986",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,32 +138,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c8b3b8d4cb4986",
+  "active": "61dc3c674024f9b8",
   "lastOpenFiles": [
-    "PicoCTF/Retos Reversing/04-vault-door-4.md",
-    "PicoCTF/Retos Reversing/03-vault-door-3.md",
-    "PicoCTF/Retos Reversing/02-vault-door-1.md",
-    "PicoCTF/Retos Reversing/01-vault-door-training.md",
-    "PicoCTF/Retos Reversing/07-asm2.md",
-    "PicoCTF/Retos Reversing/06-asm1.md",
     "PicoCTF/Retos Reversing/08-asm3.md",
-    "PicoCTF/Plantilla.md",
-    "PicoCTF/Retos Reversing/05-vault-door-5.md",
-    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
-    "PicoCTF/Retos Crypto/09-miniRSA.md",
-    "PicoCTF/Retos Crypto/11-Mind your Ps and Qs.md",
-    "PicoCTF/Retos Reversing",
+    "PicoCTF/Generalls Skills/14-Super SSH.md",
     "PicoCTF/Retos Crypto/15-ReadMyCert.md",
     "PicoCTF/Retos Crypto/14-HideToSee.md",
     "PicoCTF/Retos Crypto/13-basic-mod1.md",
     "PicoCTF/Retos Crypto/12-Pixelated.md",
+    "PicoCTF/Retos Crypto/11-Mind your Ps and Qs.md",
+    "PicoCTF/Generalls Skills/15-Blame Game.md",
+    "PicoCTF/Retos Reversing/07-asm2.md",
+    "PicoCTF/Retos Reversing/06-asm1.md",
+    "PicoCTF/Retos Reversing/05-vault-door-5.md",
+    "PicoCTF/Retos Reversing/04-vault-door-4.md",
+    "PicoCTF/Retos Reversing/03-vault-door-3.md",
+    "PicoCTF/Retos Reversing/02-vault-door-1.md",
+    "PicoCTF/Retos Reversing/01-vault-door-training.md",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
+    "PicoCTF/Retos Crypto/09-miniRSA.md",
+    "PicoCTF/Retos Reversing",
     "PicoCTF/Retos Crypto/08-rsa-pop-quiz.md",
     "PicoCTF/Retos Crypto/Untitled",
     "PicoCTF/Tarea 2/PicoCTF_2024-20240327T041251Z-001/PicoCTF_2024/PicoCTF_2024_aers/aers-BlameGame.md",
     "PicoCTF/Tarea 2/Time Machine.md",
-    "PicoCTF/Generalls Skills/15-Blame Game.md",
     "PicoCTF/Tarea 2/PicoCTF_2024-20240327T041251Z-001/PicoCTF_2024/PicoCTF_2024_GreyGods/GreyGods-Commitment Issues.md",
-    "PicoCTF/Generalls Skills/14-Super SSH.md",
     "PicoCTF/Retos Crypto/07-waves over lambda.md",
     "PicoCTF/Retos Crypto/06-Tapping.md",
     "PicoCTF/Retos Crypto/05-la cifra de.md",
