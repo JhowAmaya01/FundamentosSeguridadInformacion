@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
+                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
+                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
+                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md"
+                "file": "PicoCTF/Retos Reversing/05-vault-door-5.md"
               }
             }
           }
@@ -161,17 +161,20 @@
   },
   "active": "48c8b3b8d4cb4986",
   "lastOpenFiles": [
-    "PicoCTF/Retos Crypto/09-miniRSA.md",
-    "PicoCTF/Retos Reversing/01-vault-door-training.md",
-    "PicoCTF/Retos Reversing/05-vault-door-5.md",
-    "PicoCTF/Retos Reversing/02-vault-door-1.md",
     "PicoCTF/Retos Reversing/04-vault-door-4.md",
     "PicoCTF/Retos Reversing/03-vault-door-3.md",
+    "PicoCTF/Retos Reversing/02-vault-door-1.md",
+    "PicoCTF/Retos Reversing/01-vault-door-training.md",
+    "PicoCTF/Retos Reversing/07-asm2.md",
+    "PicoCTF/Retos Reversing/06-asm1.md",
+    "PicoCTF/Retos Reversing/08-asm3.md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/Retos Reversing/05-vault-door-5.md",
+    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
+    "PicoCTF/Retos Crypto/09-miniRSA.md",
     "PicoCTF/Retos Crypto/11-Mind your Ps and Qs.md",
     "PicoCTF/Retos Reversing",
     "PicoCTF/Retos Crypto/15-ReadMyCert.md",
-    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
     "PicoCTF/Retos Crypto/14-HideToSee.md",
     "PicoCTF/Retos Crypto/13-basic-mod1.md",
     "PicoCTF/Retos Crypto/12-Pixelated.md",
@@ -186,9 +189,6 @@
     "PicoCTF/Retos Crypto/06-Tapping.md",
     "PicoCTF/Retos Crypto/05-la cifra de.md",
     "PicoCTF/Retos Crypto/02-Easy 1.md",
-    "PicoCTF/Retos Crypto/04-Cesar.md",
-    "PicoCTF/Retos Crypto/03-13.md",
-    "PicoCTF/Retos Crypto/01-The Numbers.md",
     "PicoCTF/Retos Crypto",
     "PicoCTF/Segundo parcial/Retos forensic",
     "PicoCTF/Segundo parcial/Retos web",
