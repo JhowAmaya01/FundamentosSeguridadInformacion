@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d63fc55f5ef5f42",
+        "id": "f75559f3a07936cb",
         "type": "tabs",
         "children": [
           {
-            "id": "61dc3c674024f9b8",
+            "id": "d0a474a5e586480c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Retos Reversing/11-reverse_cipher.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/Retos Reversing/11-reverse_cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/Retos Reversing/11-reverse_cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicoCTF/Retos Reversing/11-reverse_cipher.md"
+              }
             }
           }
         ]
@@ -138,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61dc3c674024f9b8",
+  "active": "d0a474a5e586480c",
   "lastOpenFiles": [
-    "PicoCTF/Retos Reversing/08-asm3.md",
-    "PicoCTF/Generalls Skills/14-Super SSH.md",
-    "PicoCTF/Retos Crypto/15-ReadMyCert.md",
-    "PicoCTF/Retos Crypto/14-HideToSee.md",
-    "PicoCTF/Retos Crypto/13-basic-mod1.md",
-    "PicoCTF/Retos Crypto/12-Pixelated.md",
-    "PicoCTF/Retos Crypto/11-Mind your Ps and Qs.md",
-    "PicoCTF/Generalls Skills/15-Blame Game.md",
-    "PicoCTF/Retos Reversing/07-asm2.md",
-    "PicoCTF/Retos Reversing/06-asm1.md",
-    "PicoCTF/Retos Reversing/05-vault-door-5.md",
-    "PicoCTF/Retos Reversing/04-vault-door-4.md",
-    "PicoCTF/Retos Reversing/03-vault-door-3.md",
-    "PicoCTF/Retos Reversing/02-vault-door-1.md",
-    "PicoCTF/Retos Reversing/01-vault-door-training.md",
-    "PicoCTF/Plantilla.md",
-    "PicoCTF/Retos Crypto/10-b00tl3gRSA2.md",
-    "PicoCTF/Retos Crypto/09-miniRSA.md",
-    "PicoCTF/Retos Reversing",
-    "PicoCTF/Retos Crypto/08-rsa-pop-quiz.md",
-    "PicoCTF/Retos Crypto/Untitled",
-    "PicoCTF/Tarea 2/PicoCTF_2024-20240327T041251Z-001/PicoCTF_2024/PicoCTF_2024_aers/aers-BlameGame.md",
-    "PicoCTF/Tarea 2/Time Machine.md",
-    "PicoCTF/Tarea 2/PicoCTF_2024-20240327T041251Z-001/PicoCTF_2024/PicoCTF_2024_GreyGods/GreyGods-Commitment Issues.md",
-    "PicoCTF/Retos Crypto/07-waves over lambda.md",
-    "PicoCTF/Retos Crypto/06-Tapping.md",
+    "PicoCTF/Retos Reversing/12-Need For Speed.md",
+    "PicoCTF/Retos Reversing/11-reverse_cipher.md",
+    "PicoCTF/Retos Reversing/09-GDB Test Drive.md",
+    "PicoCTF/Retos Forensic/06-m00nwalk.md",
     "PicoCTF/Retos Crypto/05-la cifra de.md",
-    "PicoCTF/Retos Crypto/02-Easy 1.md",
+    "PicoCTF/Retos Crypto/06-Tapping.md",
+    "PicoCTF/Retos Crypto/07-waves over lambda.md",
+    "PicoCTF/Tercer parcial/Crypto/02-morse-code.md",
+    "PicoCTF/Tercer parcial/Crypto/01-No Padding, No Problem.md",
+    "PicoCTF/Tercer parcial/Reversing/10-.md",
+    "PicoCTF/Tercer parcial/Reversing/09-.md",
+    "PicoCTF/Tercer parcial/Reversing/08-.md",
+    "PicoCTF/Tercer parcial/Reversing/07-.md",
+    "PicoCTF/Tercer parcial/Reversing/06-.md",
+    "PicoCTF/Tercer parcial/Reversing/05-.md",
+    "PicoCTF/Tercer parcial/Reversing/04-.md",
+    "PicoCTF/Tercer parcial/Reversing/03-.md",
+    "PicoCTF/Tercer parcial/Reversing/02-.md",
+    "PicoCTF/Tercer parcial/Reversing/01-.md",
+    "PicoCTF/Tercer parcial/Crypto/10-.md",
+    "PicoCTF/Tercer parcial/Crypto/09-.md",
+    "PicoCTF/Tercer parcial/Crypto/08-.md",
+    "PicoCTF/Tercer parcial/Crypto/07-.md",
+    "PicoCTF/Tercer parcial/Crypto/06-.md",
+    "PicoCTF/Tercer parcial/Crypto/05-.md",
+    "PicoCTF/Tercer parcial/Crypto/04-.md",
+    "PicoCTF/Tercer parcial/Reversing",
+    "PicoCTF/Tercer parcial/Crypto",
+    "PicoCTF/Tercer parcial",
+    "PicoCTF/Retos Reversing",
+    "PicoCTF/Retos Crypto/Untitled",
     "PicoCTF/Retos Crypto",
     "PicoCTF/Segundo parcial/Retos forensic",
     "PicoCTF/Segundo parcial/Retos web",
     "PicoCTF/Segundo parcial",
-    "PicoCTF/Tarea 2",
-    "PicoCTF/Retos Forensic",
-    "PicoCTF/Generalls Skills",
-    "PicoCTF/Retos web"
+    "PicoCTF/Tarea 2"
   ]
 }
